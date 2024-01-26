@@ -3,7 +3,10 @@
 MOBILE APP FOR SNEAKER MODEL RECOGNITION 
 
 
-This project shows the solution of developing a mobile app for the iOS platform that can identify the model of sneakers by image. The user of the application will be able to load into it an image with unknown models of sneakers and get their name.
+This project demonstrates a solution for developing a mobile application for the iOS platform that can identify a sneaker model from an image. The user will be able to upload images with unknown sneaker models and get their name and additional information about them. The app also has a wishlist where the user can save favourite sneakers.
+
+To create this application, I used technologies such as machine learning with CoreML, CoreData, JSON, and SwiftUI.
+
 
 1. Opening and providing the image for the application.
 
